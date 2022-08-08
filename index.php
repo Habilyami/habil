@@ -8,12 +8,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" type="text/css" href="../maintainance/css/style.css">
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
 </head>
 <body>
     <div class="container">
         <center>
-            <img src="../maintainance/image/maintain.png">
+            <img src="/image/maintain.png">
             <h1>Website under maintainance</h1>
             <p>Our website is currently undergoing maintainance. We should be back shortly. Thank you for your patience.</p>
         </center>
